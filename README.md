@@ -5,9 +5,9 @@ Welcome to the Competitive Programming Group! Whether you're a beginner or an ad
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Group Guidelines](#group-guidelines)
+1. [Introduction](#1-introduction)
+2. [Getting Started](#2-getting-started)
+3. [Group Guidelines](#3-group-guidelines)
 
 ## 1. Introduction
 
