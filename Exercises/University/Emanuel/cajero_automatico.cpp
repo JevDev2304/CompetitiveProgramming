@@ -42,7 +42,7 @@ int main()
                 }
                 break;
             case 3:
-                return 0;
+                return 0; // maravillosa jugada
             default:
                 cout << "Opción no válida";
                 break;
